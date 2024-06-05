@@ -1,0 +1,17 @@
+.exportToCSV {
+  color: white;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  border: 2px double transparent;
+  background-image: linear-gradient(rgb(13, 14, 33), rgb(13, 14, 33)),
+    radial-gradient(circle at left top, rgb(1, 110, 218), rgb(217, 0, 192));
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
